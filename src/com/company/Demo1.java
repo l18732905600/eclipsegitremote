@@ -6,7 +6,7 @@ public class Demo1 {
     }
     public static void say(String name){
 
-        System.out.println("yes!");
+        System.out.println("yesccccccc!");
 
     }
 }
