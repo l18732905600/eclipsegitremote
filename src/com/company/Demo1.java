@@ -10,4 +10,8 @@ public class Demo1 {
         System.out.println("yes!");
 
     }
+    public  static String  play(String ball){
+
+        return ball;
+    }
 }
